@@ -19,4 +19,3 @@ def test_recuperacao():
 
 def test_reprovado():
     assert situacao(4.9) == "Reprovado"
-

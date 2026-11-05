@@ -6,6 +6,7 @@ alunos = [
     ("Ana", 8, 9, 7),
     ("Bruno", 5, 6, 4),
     ("Carla", 3, 4, 5),
+    ("Kelly", 10, 10, 10),
 ]
 
 linhas = ""
